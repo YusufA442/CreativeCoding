@@ -36,4 +36,5 @@ void setup() {
             y=0;
         }
     }
+    //save("image.png");
 }
